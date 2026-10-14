@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AI Video Maker</string>
+    <string name="app_tagline">फ्री एआई वीडियो जनरेटर</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_text_to_video">टेक्स्ट से वीडियो</string>
+    <string name="nav_photo_to_video">फोटो से वीडियो</string>
+    <string name="nav_creations">मेरी वीडियो लाइब्रेरी</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="free_credits">फ्री क्रेडिट</string>
+    <string name="daily_bonus">दैनिक बोनस</string>
+    <string name="text_to_video_title">टेक्स्ट से वीडियो बनाएं</string>
+    <string name="photo_to_video_title">फोटो से वीडियो बनाएं</string>
+    <string name="write_prompt_hint">अपना प्रॉम्प्ट लिखें (हिंदी या अंग्रेज़ी)...</string>
+    <string name="choose_photo">फोटो चुनें</string>
+    <string name="generate_video">वीडियो बनाएं</string>
+    <string name="generating_video">वीडियो तैयार हो रहा है</string>
+    <string name="download_video">वीडियो डाउनलोड करें</string>
+    <string name="share_video">शेयर करें</string>
+    <string name="delete_video">डिलीट करें</string>
+    <string name="retry">दोबारा कोशिश करें</string>
+    <string name="settings">सेटिंग्स</string>
+</resources>

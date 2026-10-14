@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Maker",
+  "description": "Free AI Video Generator for short videos from text prompts and photos with Hindi and English interface, customizable styles, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
